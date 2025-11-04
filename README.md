@@ -147,6 +147,121 @@ Relasi utama:
 
 
 ## 💻 **Cara Penggunaan Program**
+### 👥 Ketua RT
+**🔐Login**
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/8e7ca564-19c0-43c6-b0e0-fdd2f6844dcf" />
+
+Panduan awal penggunaan aplikasi HELYA dimulai dengan proses login melalui halaman utama. Pengguna diminta untuk mengisi kolom Username dan Password sesuai data yang telah terdaftar, kemudian menekan tombol Login untuk mengakses sistem. Setelah berhasil masuk, pengguna dapat melanjutkan ke fitur utama seperti pelaporan kondisi kesehatan pribadi maupun fasilitas kesehatan di lingkungan sekitar. Tampilan yang sederhana dan terpusat memudahkan proses autentikasi awal serta memastikan pengalaman penggunaan yang cepat dan efisien.
+
+<img width="999" height="750" alt="image" src="https://github.com/user-attachments/assets/791d11ac-5729-4072-94c9-ca0083ff39c2" />
+
+<img width="1003" height="751" alt="image" src="https://github.com/user-attachments/assets/aedffaea-10bb-491f-a4bb-5ee8d2731d93" />
+
+**👨🏻‍💼Admin**
+
+Halaman Dashboard Admin HELYA menampilkan ringkasan data pengaduan kesehatan masyarakat dan fasilitas kesehatan, termasuk jumlah laporan, status penanganan, serta grafik perbandingan. Menu di sisi kiri memudahkan akses ke fitur Dashboard, Manajemen Akun, dan Manajemen Pengaduan, dengan desain sederhana dan informatif untuk mendukung pemantauan data secara efisien.
+
+<img width="991" height="701" alt="image" src="https://github.com/user-attachments/assets/641636c9-f6a5-476d-b6c3-63ecaa120acc" />
+
+<details>
+  <summary>1️⃣ Dashboard</summary>
+
+  <img width="986" height="700" alt="image" src="https://github.com/user-attachments/assets/d0602f5d-3270-4bdd-bf68-98ddbb63caf1" />
+
+  Halaman Dashboard Admin HELYA berfungsi sebagai pusat pemantauan seluruh aktivitas pengaduan kesehatan di wilayah kerja. Tampilan ini menampilkan informasi statistik berupa jumlah pengaduan dari masyarakat dan fasilitas kesehatan, status penanganan laporan, serta grafik perbandingan jenis pengaduan dan jumlah pengaduan berdasarkan sumbernya. Desain dashboard menggunakan warna yang kontras untuk membedakan kategori dan status, seperti hijau untuk laporan selesai, kuning untuk sedang diproses, dan merah untuk belum diperiksa. Melalui tampilan ini, admin dapat dengan mudah memantau, menganalisis, dan mengevaluasi perkembangan penanganan pengaduan secara cepat dan efisien.
+</details>
+
+<details>
+  <summary>2️⃣ Manajemen Akun</summary>
+
+  <img width="988" height="696" alt="image" src="https://github.com/user-attachments/assets/4b063a16-da5d-4f3e-ab4d-5a05600fdcf4" />
+
+  Halaman Manajemen Akun berfungsi untuk mengelola data pengguna dalam sistem HELYA, khususnya akun ketua RT yang bertugas memantau dan menindaklanjuti laporan kesehatan di wilayahnya. Tampilan ini menyediakan fitur pencarian berdasarkan nama, serta tombol untuk menambah, memperbarui, dan menghapus akun pengguna. Setiap data ditampilkan dalam tabel berisi nomor, nama, nomor RT, serta opsi tindakan. Desain halaman dibuat sederhana dan terstruktur agar admin dapat melakukan pengelolaan akun dengan cepat, akurat, dan efisien.
+  
+
+<img width="986" height="701" alt="image" src="https://github.com/user-attachments/assets/5e9174eb-c608-482e-99be-0061f6ff2042" />
+
+Admin dapat mencari akun pengguna dengan mengetikkan nama akun penggunanya.
+
+
+<img width="994" height="697" alt="image" src="https://github.com/user-attachments/assets/096617f5-c8ca-4d38-811f-2ba82d4419fd" />
+
+Admin dapat menambahkan akun pengguna baru dengan mengklik tanda +(plus).
+
+
+<img width="988" height="703" alt="image" src="https://github.com/user-attachments/assets/5ad64552-ba60-4c57-b37b-9c12fc2a324b" />
+
+Admin dapat mengubah data dari akun pengguna dengan mengklik tanda pensil.
+
+
+<img width="989" height="700" alt="image" src="https://github.com/user-attachments/assets/200af82b-e454-452b-baf8-b115bb1e9bda" />
+
+Admin dapat menghapus akun pengguna yang sudah ada dengan mengklik icon sampah.
+</details>
+
+<details>
+  <summary>3️⃣ Manajemen Pengaduan</summary>
+
+  <img width="988" height="703" alt="image" src="https://github.com/user-attachments/assets/cf78a4cd-645d-45b9-aa1f-df984ea2732a" />
+
+  Halaman Manajemen Pengaduan digunakan untuk memantau dan memperbarui data laporan kesehatan masyarakat maupun fasilitas kesehatan. Setiap pengaduan ditampilkan dalam tabel berisi nama pelapor, tipe aduan, serta status penanganan yang ditandai dengan warna berbeda agar mudah diidentifikasi. Fitur pencarian dan pembaruan data disediakan untuk mempermudah admin dalam mengelola dan menindaklanjuti setiap laporan secara cepat dan efisien.
+
+
+  <img width="986" height="698" alt="image" src="https://github.com/user-attachments/assets/06b56d3f-8c8e-4641-bd79-cb45027247f5" />
+  
+  Admin dapat mencari jenis pengaduan yang ada dengan memasukkan kata kunci pada search bar.
+
+
+  <img width="989" height="701" alt="image" src="https://github.com/user-attachments/assets/e424cf55-7ef8-485c-933c-28e80345b805" />
+
+  Admin dapat menggunakan filter untuk menampilkan data sesuai dengan yang diinginkan seperti sesuai urutan nama, pengaduan dan statusnya.
+
+
+  <img width="985" height="700" alt="image" src="https://github.com/user-attachments/assets/0198715e-045c-481a-971f-33b229bdffa2" />
+
+  Admin dapat mengudah status dari pengaduan yang telah diinput oleh ketua rt.
+</details>
+
+<details>
+  <summary>4️⃣ Keluar</summary>
+
+  <img width="986" height="704" alt="image" src="https://github.com/user-attachments/assets/271b6452-1e0c-405b-ab5b-aca4b6f38fe6" />
+
+  Untuk keluar dari program silahkan klik icon pintu pada pojok kiri bawah dengan label keluar.  
+</details>
+
+
+**👨🏻‍💻Ketua_RT**
+
+<img width="1001" height="875" alt="image" src="https://github.com/user-attachments/assets/a2e8b0fc-14cf-4575-b6ee-0be2285211b5" />
+
+Tampilan awal ketika login sebagai Ketua RT menampilkan halaman utama layanan pengaduan kesehatan dan fasilitas masyarakat di wilayah Kalimantan Timur. Halaman ini menyediakan dua pilihan utama, yaitu Pengaduan Kesehatan dan Pengaduan Fasilitas, yang memudahkan pengguna untuk melaporkan permasalahan sesuai kategori. Di bagian bawah, terdapat tabel Riwayat Pengaduan yang menampilkan daftar laporan sebelumnya lengkap dengan nama pelapor, tipe aduan, status, dan tombol detail. Desain dibuat sederhana, informatif, dan responsif agar Ketua RT dapat mengakses data dan mengirim laporan dengan mudah serta cepat.
+
+
+<details>
+  <summary>1️⃣ Pengaduan Kesehatan Masyarakat</summary>
+
+  <img width="988" height="705" alt="image" src="https://github.com/user-attachments/assets/8a9ad65c-7a97-4905-a4f9-d8642de0b691" />
+
+  Ketua rt dapat membuat pengaduan kesehatan masyarakat dengan mengklik pengaduan kesehatan dan memasukkan data yang diminta.
+</details>
+
+<details>
+  <summary>2️⃣ Pengaduan Fasilitas</summary>
+  <img width="984" height="705" alt="image" src="https://github.com/user-attachments/assets/c431e094-efa8-487b-a3cf-e22134646016" />
+
+  Ketua rt dapat membuat pengaduan tentang fasilitas yang ada pada daerahnya masing-masing dengan mengklik pengaduan fasilitas.
+</details>
+
+<details>
+  <summary>4️⃣ Keluar</summary>
+
+  <img width="1001" height="869" alt="image" src="https://github.com/user-attachments/assets/b7c23722-f35d-4efd-9f95-0f86349036d8" />
+
+
+  Untuk keluar dari program silahkan klik icon pintu pada pojok kanan atas dengan label keluar.  
+</details>
+
 
 ## 📅 **Informasi Tambahan**
 🧩 **Kebutuhan Sistem**
@@ -173,5 +288,8 @@ Sebelum menjalankan program **Sistem Informasi Pengaduan Layanan Kesehatan**, pa
   Dengan konektor ini, aplikasi dapat melakukan proses komunikasi dan pertukaran data dengan database secara langsung.
 
 ---
+
+
+###
 
 [⬆️ Kembali ke Awal](#-selamat-datang-di-panduan)
